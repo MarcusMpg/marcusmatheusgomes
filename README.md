@@ -1,16 +1,34 @@
-## Hi there 👋
+ <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Marcus Matheus</h1>
 
-<!--
-**marcusmatheusgomes/marcusmatheusgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+====================================================================================================================================
 
-Here are some ideas to get you started:
+- 📚 I'm graduated in Computer Engineering course at [Cesupa](https://www.cesupa.br).
+- 👨‍💻 I'm now studying **C#**, **.NET MAUI**
+- 
+### Badges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>My GitHub Stats</b>
+<div align="center">
+<a href="http://www.github.com/marcusmpg"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusmpg&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="marcusmpg's GitHub stats" /></a>
+<a href="http://www.github.com/marcusmpg"><img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcusmpg&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</div>
+
+## 🛠 &nbsp;Tech Stack
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+
+## Contact
+
+<p align="left" style="background:yellow">
+<a href="https://www.linkedin.com/in/marcus-matheus-pereira-gomes-51081a17b/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+</a>
+</p>
