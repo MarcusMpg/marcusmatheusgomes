@@ -4,7 +4,7 @@
 
 - 📚 I'm graduated in Computer Engineering course at [Cesupa](https://www.cesupa.br).
 - 👨‍💻 I'm now studying **C#**, **.NET MAUI**
-- 
+  
 ### Badges
 
 <b>My GitHub Stats</b>
